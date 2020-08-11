@@ -1,3 +1,12 @@
 .content{
   padding:  50px
 }
+.carousel{
+  text-align: center;
+}
+.carousel-caption{
+  color: black;
+}
+.carousel-caption ul{
+  list-style-type: none;
+}
