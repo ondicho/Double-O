@@ -1,2 +1,4 @@
-$('.carousel').carousel()
+ $(document).ready(function(){
+   $('.carousel').carousel();
+ });
 //calculating subtotal

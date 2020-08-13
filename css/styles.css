@@ -1,8 +1,27 @@
+#navbar{
+  background-color: #ABB2B9;
+  overflow: hidden;
+}
+.nav-item{
+  float: left;
+  display: inline;
+}
+#nav li{
+  display: block;
+  text-align: center;
+  float: left;
+  padding: 20px;
+}
+#nav a:hover{
+  background-color: #ddd;
+}
 .content{
   padding:  50px
 }
 .carousel{
   text-align: center;
+  display: block;
+  padding: 20px;
 }
 .carousel-caption{
   color: black;
