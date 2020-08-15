@@ -29,3 +29,7 @@
 .carousel-caption ul{
   list-style-type: none;
 }
+.googlemap{
+  align-items: center;
+  margin: 20px;
+}
